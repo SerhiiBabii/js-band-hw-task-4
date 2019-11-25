@@ -31,7 +31,7 @@ You can see project page:
 
 - The first method. Go to next pages:
 
-  > http://localhost:1234/
+  > http://localhost:8080/
 
 - The second method:
 
